@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/bullgit/gitchbox",
   "dependencies": {
-    "firebase": "^2.2.3",
+    "firebase": "^10.9.0",
     "node-gitter": "^2.1.0",
     "twitter": "^1.7.1"
   }
